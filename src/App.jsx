@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import Letter from "./components/Letter";
 import GiftBox from "./components/GiftBox";
 import Gallery from "./components/Gallery";
-import ConfettiEffect from "./components/confettiEffect";
+import confettieffect from "./components/confettieffect";
 import background from "./assets/world.jpg";
 import "./App.css";
 
